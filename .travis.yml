@@ -1,0 +1,7 @@
+language: csharp
+solution: src/CSharp.Examples/CSharp.Examples.sln
+mono: none
+dotnet: 2.1.402
+script:
+ - cd src/CSharp.Examples
+ - dotnet restore
