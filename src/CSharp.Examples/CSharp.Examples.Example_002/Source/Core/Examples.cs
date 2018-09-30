@@ -1,8 +1,9 @@
 ﻿using System;
-using CSharp.Examples.Example_002.Source.Core.Models;
 
 namespace CSharp.Examples.Example_002.Source.Core
 {
+    using Models;
+
     internal class Examples
     {
         public Examples Example_001()

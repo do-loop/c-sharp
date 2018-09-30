@@ -1,2 +1,2 @@
-﻿> Useful Сonstructions (Features)
-> Полезные конструкции (Фичи)
+﻿EN: Useful сonstructions (features)
+RU: Полезные конструкции (фичи)
