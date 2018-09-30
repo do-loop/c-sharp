@@ -11,10 +11,12 @@ namespace CSharp.Examples.Example_002.Source.Core
 
             var a = new Employee("name", 21);
 
+            // name
             Console.WriteLine(a.Name);
 
             var b = new Employee { Name = "name", Age = 21 };
 
+            // 21
             Console.WriteLine(b.Age);
 
             return this;
@@ -28,16 +30,19 @@ namespace CSharp.Examples.Example_002.Source.Core
 
             var a = GetEmployee() ?? new Employee("another_name", 21);
 
+            // name
             Console.WriteLine(a.Name);
 
             Employee GetNullEmployee() => null;
 
             var b = GetNullEmployee() ?? new Employee("another_name", 21);
 
+            // another_name
             Console.WriteLine(b.Name);
 
             var c = GetNullEmployee() ?? GetNullEmployee() ?? new Employee("another_name", 21);
 
+            // another_name
             Console.WriteLine(c.Name);
 
             return this;
@@ -51,10 +56,12 @@ namespace CSharp.Examples.Example_002.Source.Core
 
             var a = string.Format("Name: {0}, Age: {1}.", employee.Name, employee.Age);
 
+            // Name: name, Age: 21.
             Console.WriteLine(a);
 
             var b = $"Name: {employee.Name}, Age: {employee.Age}.";
 
+            // Name: name, Age: 21.
             Console.WriteLine(b);
 
             return this;
