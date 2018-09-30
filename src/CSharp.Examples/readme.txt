@@ -1,4 +1,9 @@
 ﻿Example_001:
 	
-	> Tuples in C#
-	> Кортежи в C#
+	> Tuples
+	> Кортежи
+
+Example_002:
+
+	> Useful Сonstructions (Features)
+	> Полезные конструкции (Фичи)
