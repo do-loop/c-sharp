@@ -7,7 +7,8 @@ namespace CSharp.Examples.Example_003.Source
         private static void Main()
         {
             new Core.Examples()
-                .Example_001();
+                .Example_001()
+                .Example_002();
 
             Console.ReadKey();
         }
