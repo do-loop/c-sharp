@@ -12,3 +12,8 @@ Example_003:
 
 	EN: Structs: Hash сode
 	RU: Структуры: Хеш код
+
+Example_004:
+
+	EN: Arithmetic
+	RU: Арифметика

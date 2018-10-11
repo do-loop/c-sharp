@@ -1,0 +1,2 @@
+﻿EN: Arithmetic
+RU: Арифметика
