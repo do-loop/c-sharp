@@ -1,19 +1,4 @@
-﻿Example_001:
-	
-	EN: Tuples
-	RU: Кортежи
-
-Example_002:
-
-	EN: Useful сonstructions (features)
-	RU: Полезные конструкции (фичи)
-
-Example_003:
-
-	EN: Structs: Hash сode
-	RU: Структуры: Хеш код
-
-Example_004:
-
-	EN: Arithmetic
-	RU: Арифметика
+﻿Example_001: Кортежи
+Example_002: Полезные Конструкции (Фичи)
+Example_003: Структуры: Хеш Код
+Example_004: Арифметика
