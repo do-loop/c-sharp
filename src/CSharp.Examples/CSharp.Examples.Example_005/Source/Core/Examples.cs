@@ -21,7 +21,7 @@ namespace CSharp.Examples.Example_005.Source.Core
             b[0].Increase();
 
             // 0
-            // Значение элемента списка возвращается по значанию.
+            // Значение элемента списка возвращается по значению.
             Console.WriteLine(b[0].Value);
 
             return this;
